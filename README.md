@@ -3,7 +3,7 @@
 A messaging web app built with Ruby on Rails and has Real Time messgaing implemented using Action cable.
 
 
-## Screenshots for various screen sizes
+## Screenshots for login and Chatroom pages
 <br>
 <p float="left">
  <img src="screenshots/1.png" width="400"> &nbsp; <img src="screenshots/2.png" width="350">
