@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>MessageApp</title>
+    <title>Message Me</title>
+    <%= favicon_link_tag %>
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
 
@@ -10,6 +11,10 @@
   </head>
 
   <body>
-    <%= yield %>
+    <%= render 'layouts/header' %>
+    <div class="ui container">
+      <%= render 'layouts/messages' %>
+      <%= yield %>
+    </div>
   </body>
 </html>
