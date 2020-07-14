@@ -1,24 +1,27 @@
-# README
+# MessageMe App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A messaging web app built with Ruby on Rails and has Real Time messgaing implemented using Action cable.
 
-Things you may want to cover:
 
-* Ruby version
+## Screenshots for various screen sizes
+<br>
+<p float="left">
+ <img src="screenshots/1.png" width="400"> &nbsp; <img src="screenshots/2.png" width="350">
+</p>
+<br>
 
-* System dependencies
 
-* Configuration
+## Author
 
-* Database creation
+👤 **Osong Agberndifor**
 
-* Database initialization
+- Github: [Osong Agberndifor](https://github.com/OA7)
+- Twitter: [Osong Agberndifor](https://twitter.com/Osong17)
+- Linkedin: [Osong Agberndifor](https://linkedin.com/osong-agberndifor)
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🤝 Contributing
 
-* Deployment instructions
+Contributions, issues and feature requests are welcome!
 
-* ...
+Feel free to check the [Issues page](https://github.com/OA7/Message-App/issues).
